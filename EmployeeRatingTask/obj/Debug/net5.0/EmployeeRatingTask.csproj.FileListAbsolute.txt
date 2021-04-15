@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\bin\Debug\net5.0\EmployeeRatingTask.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\bin\Debug\net5.0\EmployeeRatingTask.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\bin\Debug\net5.0\EmployeeRatingTask.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\bin\Debug\net5.0\EmployeeRatingTask.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\bin\Debug\net5.0\EmployeeRatingTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\bin\Debug\net5.0\ref\EmployeeRatingTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\bin\Debug\net5.0\EmployeeRatingTask.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\obj\Debug\net5.0\EmployeeRatingTask.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\obj\Debug\net5.0\EmployeeRatingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\obj\Debug\net5.0\EmployeeRatingTask.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\obj\Debug\net5.0\EmployeeRatingTask.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\obj\Debug\net5.0\EmployeeRatingTask.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\obj\Debug\net5.0\EmployeeRatingTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\obj\Debug\net5.0\ref\EmployeeRatingTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\obj\Debug\net5.0\EmployeeRatingTask.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LambdaTask\EmployeeRatingTask\obj\Debug\net5.0\EmployeeRatingTask.genruntimeconfig.cache
